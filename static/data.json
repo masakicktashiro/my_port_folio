@@ -1,0 +1,14 @@
+[
+    {
+      "title": "スペルチェッカー",
+      "text": "albert, bertを用いた日本語、英語のスペルチェックアプリ",
+      "img": "./img/36256.png",
+      "github": "https://github.com/masakicktashiro/spell_app"
+    },
+    {
+      "title": "ポートフォリオ",
+      "text": "vueを用いたポートフォリオサイト",
+      "img": "./img/IMG_1926.jpeg",
+      "github": "https://github.com/masakicktashiro"
+    }
+  ]
