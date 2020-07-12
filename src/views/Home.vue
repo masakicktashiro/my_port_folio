@@ -30,5 +30,6 @@
 <style scoped>
 .container{
   text-align: left;
+  margin: 0 auto;
 }
 </style>

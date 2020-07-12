@@ -36,8 +36,8 @@ export default {
   padding : 0px 0px;
 }
 .container{
-  margin : 0px 0px;
-  padding : 0px 0px;
+  margin : 0px auto;
+  padding : 10px 10px;
 }
 .v-enter-active {
   transition: opacity 1.5s;
